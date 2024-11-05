@@ -14,6 +14,6 @@ The `Photo Gallery` is the place where a set of photographs is exhibited, that i
 
 ## <p align="left" style="color: #80cbc4;"> Screenshot Project 💻 </p>
 
-🔶 [Project Website](https://alejandro-lopez.futuretecware.com/Photo-Gallery/)
+🔶 [Project Website](https://alejandro-190107.github.io/Photo-Gallery/)
 
 ![Screenshot](assets/img/Screenshot.png)
